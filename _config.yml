@@ -25,7 +25,7 @@ features                                  :
 
   - title                                 : Workout Logging
     description                           : Log your workouts from your Apple Watch effortlessly.
-    fontawesome_icon_name                 : person-running
+    fontawesome_icon_name                 : dumbbell
     
   - title                                 : Rate and review
     description                           : Add notes to your workouts, rate, and favorite them.
@@ -37,7 +37,7 @@ features                                  :
 
   - title                                 : Progress Tracking
     description                           : Monitor your progress over time and stay motivated.
-    fontawesome_icon_name                 : chart-line
+    fontawesome_icon_name                 : arrow-trend-up
 
   - title                                 : HealthKit Integration
     description                           : Sync seamlessly with HealthKit for a holistic view of your workouts.
