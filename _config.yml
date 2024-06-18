@@ -33,11 +33,11 @@ features                                  :
 
   - title                                 : Detailed Statistics
     description                           : Get in-depth insights and analytics on the workouts you complete.
-    fontawesome_icon_name                 : chart-simple
+    fontawesome_icon_name                 : hashtag
 
   - title                                 : Progress Tracking
     description                           : Monitor your progress over time and stay motivated.
-    fontawesome_icon_name                 : arrow-trend-up
+    fontawesome_icon_name                 : chart-line
 
   - title                                 : HealthKit Integration
     description                           : Sync seamlessly with HealthKit for a holistic view of your workouts.
